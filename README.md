@@ -3,7 +3,7 @@ I am Guillaume Le Berre, a Bio-informatician from Belgium. My academic journey a
 
 Currently, I am pursuing an internship at ILVO Ostend, where I am actively involved in developing a bioinformatics pipeline for mitochondrial genome assembly. This project focuses on processing sequencing reads generated through rolling circle amplification and nanopore sequencing techniques. The pipeline is made in Snakemake where I combine different Bio-informatic tools installed through conda, python scripts to achieve a final annotated assembly. A summary report is generated in a HTML report file. 
 
-Can contact me through through [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-le-berre-1aa366207/)
+You can contact me through through [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-le-berre-1aa366207/)
 
 ### Knowledge - Languages
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
