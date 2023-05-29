@@ -24,6 +24,6 @@ Can contact me through through
 ### Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillaumeLeBerreBIT&show_icons=true&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuillaumeLeBerreBIT&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuillaumeLeBerreBIT&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeLeBerreBIT&langs_count=8&theme=dark&background=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
