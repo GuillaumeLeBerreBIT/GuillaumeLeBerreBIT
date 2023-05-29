@@ -1,9 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 I am Guillaume Le Berre, a Bio-informatician from Belgium. My academic journey at Howest Bruges has provided me with a solid foundation in coding, particularly in Python, Rstudio, HTML, CSS, and PHP. Driven by an unwavering passion for the intersection of programming and biology, I continuously strive to apply my expertise in these languages to unravel the intricacies of biological systems and contribute to the advancement of scientific knowledge.
 
 Currently, I am pursuing an internship at ILVO Ostend, where I am actively involved in developing a bioinformatics pipeline for mitochondrial genome assembly. This project focuses on processing sequencing reads generated through rolling circle amplification and nanopore sequencing techniques. The pipeline is made in Snakemake where I combine different Bio-informatic tools installed through conda, python scripts to achieve a final annotated assembly. A summary report is generated in a HTML report file. 
 
-Can contact me through 
+Can contact me through through 
 
 ### Knowledge - Languages
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -23,5 +23,5 @@ Can contact me through
 
 ### Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillaumeLeBerreBIT&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuillaumeLeBerreBIT&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeLeBerreBIT&langs_count=8&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
