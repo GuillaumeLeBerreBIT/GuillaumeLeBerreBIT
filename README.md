@@ -1,8 +1,6 @@
 # Hi there 👋
 I am Guillaume Le Berre, a Bio-informatician from Belgium. My academic journey at Howest Bruges has provided me with a solid foundation in coding, particularly in Python, Rstudio, HTML, CSS, and PHP. Driven by an unwavering passion for the intersection of programming and biology, I continuously strive to apply my expertise in these languages to unravel the intricacies of biological systems and contribute to the advancement of scientific knowledge.
 
-Currently, I am pursuing an internship at ILVO Ostend, where I am actively involved in developing a bioinformatics pipeline for mitochondrial genome assembly. This project focuses on processing sequencing reads generated through rolling circle amplification and nanopore sequencing techniques. The pipeline is made in Snakemake where I combine different Bio-informatic tools installed through conda, python scripts to achieve a final annotated assembly. A summary report is generated in a HTML report file. 
-
 You can contact me through through [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-le-berre-1aa366207/)
 
 ### Knowledge - Languages
