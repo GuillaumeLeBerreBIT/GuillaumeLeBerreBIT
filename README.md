@@ -26,6 +26,10 @@ You can contact me through through [![LinkedIn](https://img.shields.io/badge/Lin
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+
 ### Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillaumeLeBerreBIT&show_icons=true&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
