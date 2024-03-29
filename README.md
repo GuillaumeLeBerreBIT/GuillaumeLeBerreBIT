@@ -33,11 +33,3 @@ You can contact me through through [![LinkedIn](https://img.shields.io/badge/Lin
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
-
-
-### Stats 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillaumeLeBerreBIT&show_icons=true&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GuillaumeLeBerreBIT&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeLeBerreBIT&langs_count=8&theme=dark&background=000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
