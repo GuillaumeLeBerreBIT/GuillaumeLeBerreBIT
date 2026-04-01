@@ -9,6 +9,7 @@ You can contact me through [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2
 
 ### 🚀 Featured Projects
 - 🗓️ [CalendarTracking](https://github.com/GuillaumeLeBerreBIT/CalendarTrackingApp) — Web application to share events between users in custom group
+- 📹 [TCGVideoGenerator](https://github.com/GuillaumeLeBerreBIT/TCG_Pokemon_Data_Scraper) — Python project to make videos from Media Files
 - 🎬 [MovieAPI](https://github.com/GuillaumeLeBerreBIT/MovieAPI) — Web app to browse books/movies using a JavaScript frontend
 - 🍹 [getCocktail](https://github.com/GuillaumeLeBerreBIT/getCocktail) — Capstone project using REST APIs with JavaScript
 - 📝 [Blog-Express-JS](https://github.com/GuillaumeLeBerreBIT/Blog-Express-JS) — Blog site built with Express.js & EJS
